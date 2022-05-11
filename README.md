@@ -1,5 +1,4 @@
-[![welim's 42 stats](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/stats?cursusId=21&coalitionId=148)](https://github.com/JaeSeoKim/badge42)
-[![welim's 42 stats](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/stats?cursusId=21&coalitionId=148)](https://github.com/JaeSeoKim/badge42)
+[![welim's 42 stats](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/stats?cursusId=21&coalitionId=148)]
 
 ---
 
