@@ -1,16 +1,15 @@
-### Hi there 👋
+[![welim's 42 stats](https://badge42.vercel.app/api/v2/cl1v1ass3001109mhq785smyd/stats?cursusId=21&coalitionId=182)](https://github.com/JaeSeoKim/badge42)
 
-<!--
-**Ry4nnnn/Ry4nnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p>
+<b>Hi, I'm Ryan, a student from 42 Kuala Lumpur</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+| [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) |
+|:-:|:-:|
+
+<p align="center">Core Programme Progress:</p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://media4.giphy.com/media/Iy4uwCaDJpbqi1UIqy/giphy.gif?cid=790b76113de42eb586ed0ca9f63578fc9275f0ac86e71bc8&rid=giphy.gif&ct=g" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Solid_white.svg/2048px-Solid_white.svg.png" width="20" height="20"></p>
