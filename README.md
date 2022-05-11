@@ -8,7 +8,7 @@
 
 ---
 
-| [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) |
+| [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">Core Programme Progress:</p>
