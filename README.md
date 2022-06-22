@@ -12,7 +12,7 @@
 |:-:|:-:|
 <b>Minitalk</b>			[![Minitalk](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)](https://github.com/Ry4nnnn/minitalk)
 
-<b>Born2beroot</b>		[(https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2588918)](https://github.com/Ry4nnnn/born2beroot)
+<b>Born2beroot</b>		[![Born2beroot](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2588918)](https://github.com/Ry4nnnn/born2beroot)
 <!-- ft_printf -->
 https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549
 <!-- get_next_line -->
