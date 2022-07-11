@@ -1,4 +1,4 @@
-[![bshamsid's 42 stats](https://badge42.vercel.app/api/v2/cl1v1ass3001109mhq785smyd/stats?cursusId=21&coalitionId=182)](https://github.com/JaeSeoKim/badge42)
+[![bshamsid's 42 stats](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/stats?cursusId=21&coalitionId=180)](https://github.com/JaeSeoKim/badge42)
 
 ---
 
