@@ -3,12 +3,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Kuala+Lumpur+Student;Trying%20to%20implement%20a%20real%20life%20Teleportal&center=true&width=500&height=50"></a>
 </p>
 
-## :ok_man: About Me :
+## 🔥 About Me :
 - 🔭 I’m currently a `Cadet` at [42 Kuala Lumpur](https://42kl.edu.my/)
 - 🌱 I’m currently learning `C Programming`.
 - 📫 Where to reach me: <a href="https://www.instagram.com/weijun._/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://www.facebook.com/ryan.lim.42" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"><a href="mailto:weijunlimmm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a></a>
 
-## 🔥 42cursus Progress :
+## 📝 42cursus Progress :
 
 [![Ryan's 42 stats](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/stats?cursusId=21&coalitionId=180)](https://profile.intra.42.fr/users/welim)
 
