@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Ryan Lim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Kuala+Lumpur+Cadet;Trying%20to%20implement%20a%20real%20life%20Portal&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Kuala+Lumpur+Student;Trying%20to%20implement%20a%20real%20life%20Teleportal&center=true&width=500&height=50"></a>
 </p>
 
 ## :ok_man: About Me
 - 🔭 I’m currently a `Cadet` at [42 Kuala Lumpur](https://42kl.edu.my/)
 - 🌱 I’m currently learning `C Programming`.
-- 🤔 I’m looking for jobs/projects to build my portfolio or anything to help me gain exposure in this industry.
 - 📫 Where to reach me: <a href="https://www.instagram.com/weijun._/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://www.facebook.com/ryan.lim.42" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"><a href="mailto:weijunlimmm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a></a>
 
 ## 42cursus Progress 🔥
