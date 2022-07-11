@@ -15,8 +15,8 @@
 
 ---
 
-| No  | Project                                     | Description                            | Status   |
-| :-: | :------------------------------------------ | :------------------------------------: | :------: |
+| No  | Project                                     | Description                            | Grade   |
+| :-: | :------------------------------------------ | :------------------------------------: | :-----: |
 | 1   | [Libft](../../../42_libft)                  | Creating my own `library` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
 | 2   | [get_next_line](../../../42_get_next_line)  | Learned how to use static variable     | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
 | 3   | [ft_printf](../../../42_ft_printf)          | Recreating `printf` from scratch       | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |
