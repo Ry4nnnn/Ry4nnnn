@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ryan Lim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Ryan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Kuala+Lumpur+Student;Trying%20to%20implement%20a%20real%20life%20Time%20Machine&center=true&width=500&height=50"></a>
 </p>
@@ -27,5 +27,5 @@
 
 ---
 
-| [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/Ry4nnnn?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Ry4nnnn?tab=repositories) |
+| [![Ryan 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/Ry4nnnn?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Ry4nnnn?tab=repositories) |
 |:-:|:-:|
