@@ -15,8 +15,8 @@ I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
 | [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) |
 |:-:|:-:|
 
-| No  | Project                                     | Status |  No  | Project                                   | Status |
-| :-: | :------------------------------------------ | :------: |  :-: | :---------------------------------------- | :------: |
+| No  | Project                                     | Status   | ~ |  No  | Project                                   | Status |
+| :-: | :------------------------------------------ | :------: | :-:|  :-: | :---------------------------------------- | :------: |
 | 1   | [Libft](../../../42_libft)                  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  10A | cub3d                                      | 🔒     |
 | 2   | [Born2beroot](../../../42_born2beroot)      | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  10B | miniRT                                     | 🔒     |
 | 3   | [ft_printf](../../../42_ft_printf)          | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |  11  | CPP Module 00 | 🔒     |
@@ -26,8 +26,8 @@ I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
 | 6A  | [minitalk](../../../42_minitalk)            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  | pipex                                       | 🔒     |  16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   | [push_swap](../../../42_push_swap)          | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |  17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   | minishell) | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   | Philosphers     | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | netwhat |  🔒    |
+| 8   | minishell) | 🔒     |  18  | CPP Module 07                              | 🔒     |   |     |                                |         |
+| 9   | Philosphers     | 🔒     |  19  | CPP Module 08                              | 🔒     |
 
 <b>Projects</b> | <b>Grade<b>
 <b>So_long</b> | [![So_long](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)](https://github.com/Ry4nnnn/so_long)
