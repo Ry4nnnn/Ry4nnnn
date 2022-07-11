@@ -15,10 +15,10 @@ I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
 | [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) |
 |:-:|:-:|
 
-| No  | Project                                     | Status |  No  | Project                                   | Status |  No  | Project                        | Status |
-| :-: | :------------------------------------------ | :----: |  :-: | :---------------------------------------- | :----: |  :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../42_libft)                  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
-| 2   | [Born2beroot](../../../42_born2beroot)      | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
+| No  | Project                                     | Status |  No  | Project                                   | Status |
+| :-: | :------------------------------------------ | :----: |  :-: | :---------------------------------------- | :----: |
+| 1   | [Libft](../../../42_libft)                  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  10A | cub3d                                      | 🔒     |🔒      |
+| 2   | [Born2beroot](../../../42_born2beroot)      | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  10B | miniRT                                     | 🔒     |🔒      |
 | 3   | [ft_printf](../../../42_ft_printf)          | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |  11  | CPP Module 00 | 🔒     |   | 22A | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../42_get_next_line)  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  12  | CPP Module 01 | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |  13  | CPP Module 02 | 🔒     |   | 23  | Inception                      | 🔒    
