@@ -1,8 +1,8 @@
 ## Hi Everyone! 👋🏻
 
-| My name is Wei Jun 'Ryan' Lim. | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) |
-| :-- | :-: |
-<!-- | I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my). | -->
+My name is Wei Jun 'Ryan' Lim.
+
+I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
 
 ## 42cursus Progress 💪🏻
 
