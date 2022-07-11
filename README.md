@@ -1,10 +1,14 @@
-[![bshamsid's 42 stats](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/stats?cursusId=21&coalitionId=180)](https://profile.intra.42.fr/users/welim)
+## Hi Everyone! 👋🏻
+
+My name is Wei Jun 'Ryan' Lim.
+
+I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
+
+## 42cursus Progress 💪🏻
 
 ---
 
-<p>
-<b>Hi, I'm Ryan, currently a student from 42 Kuala Lumpur, Malaysia</b>
-</p>
+[![Ryan's 42 stats](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/stats?cursusId=21&coalitionId=180)](https://profile.intra.42.fr/users/welim)
 
 ---
 
