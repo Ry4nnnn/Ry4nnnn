@@ -14,6 +14,21 @@ I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
 
 | [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) |
 |:-:|:-:|
+
+| No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
+| :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
+| 1   | [Libft](../../../libft)                  | ✅     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
+| 2   | [Born2beroot](../../../42-born2beroot)      | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
+| 3   | [ft_printf](../../../42-ft_printf)          | ✅     |   | 11  | [CPP Module 00](../../../42-cpp_module_00) | 📝     |   | 22A | ft_irc                         | 🔒      |
+| 4   | [get_next_line](../../../42-get_next_line)  | ✅     |   | 12  | [CPP Module 01](../../../42-cpp_module_01) | 📝     |   | 22B | webserv                        | 🔒      |
+| 5A  | FdF                                         | 🔒     |   | 13  | [CPP Module 02](../../../42-cpp_module_02) | 📝     |   | 23  | Inception                      | 🔒      |
+| 5B  | [so_long](../../../42-so_long)              | ✅     |   | 14  | [CPP Module 03](../../../42-cpp_module_03) | 📝     |   | 24  | ft_transcendence               | 🔒      |
+| 6A  | [minitalk](../../../42-minitalk)            | ✅     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
+| 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
+| 7   | [push_swap](../../../42-push_swap)          | ✅     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
+| 8   | [minishell](../../../../bunyod16/minishell) | 📝     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
+| 9   | [Philosphers](../../../42-philosophers)     | ✅     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat](../../../42-netwhat) | ✅      |
+
 <b>Projects</b> | <b>Grade<b>
 <b>So_long</b> | [![So_long](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)](https://github.com/Ry4nnnn/so_long)
 <b>Minitalk</b> | [![Minitalk](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)](https://github.com/Ry4nnnn/minitalk)
