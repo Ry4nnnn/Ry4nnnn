@@ -1,8 +1,10 @@
-## Hi Everyone! 👋🏻
+<h1 align="center">Hi, I'm Ryan Lim! <img src="https://giphy.com/gifs/mythical-creatures-sparkly-objects-xT9IgzvnOyNDYnxeHS" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Kuala+Lumpur+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
-My name is Wei Jun 'Ryan' Lim.
 
-I am currently learning programming at   [ 42 Kuala Lumpur](https://42kl.edu.my).
+
 
 ## 42cursus Progress 💪🏻
 
@@ -17,7 +19,7 @@ I am currently learning programming at   [ 42 Kuala Lumpur](https://42kl.edu.my)
 | 2   | [Born2beroot](../../../42_born2beroot)      | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     ||  10B | miniRT                                     | 🔒     |
 | 3   | [ft_printf](../../../42_ft_printf)          | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     ||  11  | CPP Module 00 | 🔒     |
 | 4   | [get_next_line](../../../42_get_next_line)  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     ||  12  | CPP Module 01 | 🔒     |
-| 5A  | FdF                                         | 🔒     ||  13  | CPP Module 02 | 🔒     |   | 23  | Inception                      | 🔒    
+| 5  | FdF                                         | 🔒     ||  13  | CPP Module 02 | 🔒     |   | 23  | Inception                      | 🔒    
 | 5B  | [so_long](../../../42_so_long)              | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     ||  14  | CPP Module 03 | 🔒     |
 | 6A  | [minitalk](../../../42_minitalk)            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     ||  15  | CPP Module 04                              | 🔒     |   |     |                                |         |
 | 6B  | pipex                                       | 🔒     ||  16  | CPP Module 05                              | 🔒     |   |     |                                |         |
