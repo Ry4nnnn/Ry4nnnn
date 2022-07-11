@@ -16,7 +16,7 @@
 
 | No  | Project                                     | Status   |
 | :-: | :------------------------------------------ | :------: |
-| 1   | [Libft(creating a library from scratch)](../../../42_libft)                  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| 1   | [Libft](creating a library from scratch)(../../../42_libft)                  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
 | 2   | [Born2beroot](../../../42_born2beroot)      | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
 | 3   | [ft_printf](../../../42_ft_printf)          | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |
 | 4   | [get_next_line](../../../42_get_next_line)  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
