@@ -2,7 +2,7 @@
 
 My name is Wei Jun 'Ryan' Lim.
 
-I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
+I am currently learning programming at   [ 42 Kuala Lumpur](https://42kl.edu.my).
 
 ## 42cursus Progress 💪🏻
 
