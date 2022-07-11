@@ -18,8 +18,6 @@
 <b>Get_next_line</b> | [![Get_next_line](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2565142)](https://github.com/Ry4nnnn/get_next_line)
 <b>Libft</b> | [![Libft](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2550472)](https://github.com/Ry4nnnn/libft)
 
-|:-:|:-:|
-
 ## 📱 Connect With Me!
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ryan.lim.42)
 [![Gmail](https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white)](mailto:weijunlimmm@gmail.com)
