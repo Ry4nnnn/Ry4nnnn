@@ -24,8 +24,8 @@ I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
 | 5A  | FdF                                         | 🔒     |  13  | CPP Module 02 | 🔒     |   | 23  | Inception                      | 🔒    
 | 5B  | [so_long](../../../42_so_long)              | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  14  | CPP Module 03 | 🔒     |
 | 6A  | [minitalk](../../../42_minitalk)            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |  15  | CPP Module 04                              | 🔒     |   |     |                                |         |
-| 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   | [push_swap](../../../42_push_swap)          | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
+| 6B  | pipex                                       | 🔒     |  16  | CPP Module 05                              | 🔒     |   |     |                                |         |
+| 7   | [push_swap](../../../42_push_swap)          | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |  17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | minishell) | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   | Philosphers     | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | netwhat |  🔒    |
 
