@@ -15,7 +15,7 @@ I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
 | [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Ry4nnnn?tab=repositories) |
 |:-:|:-:|
 
-| No  | Project                                     | Status   |||||||||||||||||||||||||||||||  No  | Project                                   | Status |
+| No  | Project                                     | Status   | XXXXXXXXXXXXXXX |  No  | Project                                   | Status |
 | :-: | :------------------------------------------ | :------: | :-:|  :-: | :---------------------------------------- | :------: |
 | 1   | [Libft](../../../42_libft)                  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     ||  10A | cub3d                                      | 🔒     |
 | 2   | [Born2beroot](../../../42_born2beroot)      | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     ||  10B | miniRT                                     | 🔒     |
