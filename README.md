@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Kuala+Lumpur+Cadet;Trying%20to%20implement%20a%20real%20life%20Portal&center=true&width=500&height=50"></a>
 </p>
 
-
+---
 
 ## 42cursus Progress 🔥
 
