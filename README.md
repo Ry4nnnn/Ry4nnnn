@@ -17,7 +17,7 @@ I am currently learning programming at  [42 Kuala Lumpur](https://42kl.edu.my).
 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../42_libft)                  |  [!(https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)]    |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
+| 1   | [Libft](../../../42_libft)                  | [![So_long](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)](https://github.com/Ry4nnnn/so_long)     |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
 | 2   | [Born2beroot](../../../42_born2beroot)      | ✅     |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
 | 3   | [ft_printf](../../../42_ft_printf)          | ✅     |   | 11  | [CPP Module 00](../../../42_cpp_module_00) | 📝     |   | 22A | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../42_get_next_line)  | ✅     |   | 12  | [CPP Module 01](../../../42_cpp_module_01) | 📝     |   | 22B | webserv                        | 🔒      |
