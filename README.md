@@ -16,8 +16,8 @@
 
 | No  | Project                                     | Description                    | Status   |
 | :-: | :------------------------------------------ | :----------------------------: | :------: |
-| 1   | [Libft](../../../42_libft)                  | creating a `library` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 2   | [Born2beroot](../../../42_born2beroot)      | setting up a `virtual machine` | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| 1   | [Libft](../../../42_libft)                  | Creating my own `library` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| 2   | [Born2beroot](../../../42_born2beroot)      | Setting up a `virtual machine` | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
 | 3   | [ft_printf](../../../42_ft_printf)          | Recreating `printf` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |
 | 4   | [get_next_line](../../../42_get_next_line)  | Learned how to use static variable | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
 | 5B  | [so_long](../../../42_so_long)              | Creating a simple `2d game` | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
