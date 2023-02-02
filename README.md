@@ -9,6 +9,22 @@
 - 👦 Born in 9th October 2003.
 - 📫 Where to reach me: <a href="https://www.instagram.com/weijun._/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://www.facebook.com/ryan.lim.42" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"><a href="mailto:weijunlimmm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a></a>
 
+## 🧑‍💻 My Current Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,wordpress,visualstudio)](https://skillicons.dev)
+
+<br>
+
+> :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
+
+> :hammer_and_wrench:  Tools - Figma | Adobe XD | Git | GitHub | Stack Overflow
+
+> :framed_picture:  Frameworks -  WordPress
+
+> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+
+<br>
+
 ## 📝 42cursus Progress :	
 
 [![Ryan's 42 stats](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/stats?cursusId=21&coalitionId=180)](https://profile.intra.42.fr/users/welim)
