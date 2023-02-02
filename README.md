@@ -11,11 +11,11 @@
 
 ## 🧑‍💻 My Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,wordpress,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,css,github,figma)](https://skillicons.dev)
 
 <br>
 
-> :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
+> :desktop_computer:  Languages - C
 
 > :hammer_and_wrench:  Tools - Figma | Adobe XD | Git | GitHub | Stack Overflow
 
