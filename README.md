@@ -15,13 +15,9 @@
 
 <br>
 
-> :desktop_computer:  Languages - C
+> :desktop_computer:  Languages that i want to learn - C++ | JavaScript | Phython
 
-> :hammer_and_wrench:  Tools - Figma | Adobe XD | Git | GitHub | Stack Overflow
-
-> :framed_picture:  Frameworks -  WordPress
-
-> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+> :atom:  IDEs - Vim | Visual Studio Code
 
 <br>
 
