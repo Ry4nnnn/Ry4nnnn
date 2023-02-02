@@ -17,13 +17,6 @@
 ## 💻 Language that i want to learn
 
 [![Languages](https://skillicons.dev/icons?i=cpp,js,py)](https://skillicons.dev)
-<br>
-
-> :desktop_computer:  Languages that i want to learn - C++ | JavaScript | Phython
-
-> :atom:  IDEs - Vim | Visual Studio Code
-
-<br>
 
 ## 📝 42cursus Progress :	
 
