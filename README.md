@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,css,github,figma)](https://skillicons.dev)
 
-## 🧑‍💻 Language that i want to learn
+## 💻 Language that i want to learn
 
 [![Languages](https://skillicons.dev/icons?i=cpp,js,py)](https://skillicons.dev)
 <br>
