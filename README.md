@@ -27,14 +27,14 @@
 | No  | Project                                     | Description                            | Grade   |
 | :-: | :------------------------------------------ | :------------------------------------: | :-----: |
 | 1   | [Libft](../../../42_libft)                  | Creating my own `library` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 2   | [get_next_line](../../../42_get_next_line)  | Learned how to use static variable     | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 3   | [ft_printf](../../../42_ft_printf)          | Recreating `printf` from scratch       | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |
+| 2   | [Get_Next_Line](../../../42_get_next_line)  | Learned how to use static variable     | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| 3   | [Ft_printf](../../../42_ft_printf)          | Recreating `printf` from scratch       | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |
 | 4   | [Born2beroot](../../../42_born2beroot)      | Setting up a `virtual machine`         | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 5  | [minitalk](../../../42_minitalk)             | Sending messages using `Signals` (`SIGUSR1` and `SIGUSR2`) | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 6   | [so_long](../../../42_so_long)              | Creating a simple `2d game`            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 7   | [push_swap](../../../42_push_swap)          | Sort data on a stack with the lowest number of actions from a limited set of instructions.  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |
-| 8   | [philosophers](../../../42_philosophers)          | Not Submitted!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2858985)     |
-| 9   | [minishell](../../../42_minishell)          | On Going!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2914195)     |
+| 5  | [Minitalk](../../../42_minitalk)             | Sending messages using `Signals` (`SIGUSR1` and `SIGUSR2`) | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| 6   | [So_long](../../../42_so_long)              | Creating a simple `2d game`            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| 7   | [Push_swap](../../../42_push_swap)          | Sort data on a stack with the lowest number of actions from a limited set of instructions.  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |
+| 8   | [Philosophers](../../../42_philosophers)          | Not Submitted!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2858985)     |
+| 9   | [Minishell](../../../42_minishell)          | On Going!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2914195)     |
 
 ---
 
