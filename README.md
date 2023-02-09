@@ -34,7 +34,7 @@
 | 6   | [so_long](../../../42_so_long)              | Creating a simple `2d game`            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
 | 7   | [push_swap](../../../42_push_swap)          | Sort data on a stack with the lowest number of actions from a limited set of instructions.  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |
 | 8   | [philosophers](../../../42_philosophers)          | Not Submitted!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2858985)     |
-| 9   | [minishell](../../../42_minishell)          | on going!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2914195)     |
+| 9   | [minishell](../../../42_minishell)          | On Going!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2914195)     |
 
 ---
 
