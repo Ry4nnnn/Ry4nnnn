@@ -10,13 +10,13 @@
 - 👦 Born in 9th October 2003.
 - 📫 Where to reach me: <a href="https://www.instagram.com/weijun._/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://www.facebook.com/ryan.lim.42" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"><a href="mailto:weijunlimmm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a></a>
 
-## 🧑‍💻 My Current Technical Skills
+## 🧑‍💻 Language that i'm currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,css,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash)](https://skillicons.dev)
 
 ## 💻 Language that i want to learn
 
-[![Languages](https://skillicons.dev/icons?i=cpp,js,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,py,php,cs)](https://skillicons.dev)
 
 ## 📝 42cursus Progress :	
 
@@ -24,17 +24,20 @@
 
 ---
 
-| No  | Project                                     | Description                            | Grade   |
-| :-: | :------------------------------------------ | :------------------------------------: | :-----: |
-| 1   | [Libft](../../../42_libft)                  | Creating my own `library` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 2   | [Get_Next_Line](../../../42_get_next_line)  | Learned how to use static variable     | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 3   | [Ft_printf](../../../42_ft_printf)          | Recreating `printf` from scratch       | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |
-| 4   | [Born2beroot](../../../42_born2beroot)      | Setting up a `virtual machine`         | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 5  | [Minitalk](../../../42_minitalk)             | Sending messages using `Signals` (`SIGUSR1` and `SIGUSR2`) | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 6   | [So_long](../../../42_so_long)              | Creating a simple `2d game`            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| 7   | [Push_swap](../../../42_push_swap)          | Sort data on a stack with the lowest number of actions from a limited set of instructions.  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |
-| 8   | [Philosophers](../../../42_philosophers)          | Not Submitted!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2858985)     |
-| 9   | [Minishell](../../../42_minishell)          | On Going!                        | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2914195)     |
+| List Of Projects in 42 Kuala Lumpur |
+| Project                                     | Description                            | Grade   |
+| :-----------------------------------------: | :------------------------------------: | :-----: |
+| [Libft](../../../42_libft)                  | Creating my own `library` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| [Get_Next_Line](../../../42_get_next_line)  | Learned how to use static variable     | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| [Ft_printf](../../../42_ft_printf)          | Recreating `printf` from scratch       | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |
+| [Born2beroot](../../../42_born2beroot)      | Setting up a `virtual machine`         | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| [Minitalk](../../../42_minitalk)             | Sending messages using `Signals` (`SIGUSR1` and `SIGUSR2`) | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| [So_long](../../../42_so_long)              | Creating a simple `2d game`            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
+| [Push_swap](../../../42_push_swap)          | Sort data on a stack with the lowest number of actions from a limited set of instructions.  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |
+| [Philosophers](../../../42_philosophers)          | Implementing and managing `mutexes` and `threads` | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2858985)     |
+| [Minishell](../../../42_minishell)          | Recreating a mini `Bash` terminal | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2914195)     |
+| [CPP-Module-00](../../../42_CPP-Module-00)  | On Going!                        | ![]()     |
+| [CPP-Module-01](../../../42_CPP-Module-01)  | On Going!                        | ![]()     |
 
 ---
 
