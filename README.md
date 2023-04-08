@@ -5,7 +5,6 @@
 
 ## 🔥 About Me :
 - 🔭 I’m currently a `Cadet` at [42 Kuala Lumpur](https://42kl.edu.my/)
-- 🧑‍💻 I’m currently learning `C Programming`.
 - 🌱 Kuala Lumpur, Malaysia.
 - 👦 Born in 9th October 2003.
 - 📫 Where to reach me: <a href="https://www.instagram.com/weijun._/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://www.facebook.com/ryan.lim.42" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"><a href="mailto:weijunlimmm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a></a>
