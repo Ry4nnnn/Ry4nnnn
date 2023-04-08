@@ -37,7 +37,7 @@
 | [Push_swap](../../../42_push_swap)          | Sort data on a stack with the lowest number of actions from a limited set of instructions.  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |
 | [Philosophers](../../../42_philosophers)          | Implementing and managing `mutexes` and `threads` | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2858985)     |
 | [Minishell](../../../42_minishell)          | Recreating a mini `Bash` terminal | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2914195)     |
-| [CPP-Module-00](../../../42_CPP-Module-00)  | On Going!                        | ![]()     |
+| [CPP-Module-00](../../../42_CPP-Module-00)  | On Going!                        | [![42_CPP00](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/3013874)](https://github.com/JaeSeoKim/badge42)     |
 | [CPP-Module-01](../../../42_CPP-Module-01)  | On Going!                        | ![]()     |
 
 ---
