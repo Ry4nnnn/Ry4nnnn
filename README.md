@@ -24,7 +24,7 @@
 
 ---
 
-## List of Projects in 42 Kuala Lumpur
+## List of Projects achieved in 42 Kuala Lumpur
 | Projects                            | Description                            | Grade   |
 | :---------------------------------: | :------------------------------------: | :-----: |
 | [Libft](../../../42_libft)                  | Creating my own `library` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
