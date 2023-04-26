@@ -25,23 +25,6 @@
 
 ---
 
-## List of Projects achieved in 42 Kuala Lumpur
-| Projects                            | Description                            | Grade   |
-| :---------------------------------: | :------------------------------------: | :-----: |
-| [Libft](../../../42_libft)                  | Creating my own `library` from scratch | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| [Get_Next_Line](../../../42_get_next_line)  | Creating a function that reads a file and extracts a newline-terminated line from a file descriptor.     | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| [Ft_printf](../../../42_ft_printf)          | Recreating `printf` from scratch       | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2569549)     |
-| [Born2beroot](../../../42_born2beroot)      | Setting up a `virtual machine`         | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| [Minitalk](../../../42_minitalk)             | Sending messages using `Signals` (`SIGUSR1` and `SIGUSR2`) | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| [So_long](../../../42_so_long)              | Creating a simple `2d game`            | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2609986)     |
-| [Push_swap](../../../42_push_swap)          | Sort data on a stack with the lowest number of actions from a limited set of instructions.  | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2655796)     |
-| [Philosophers](../../../42_philosophers)          | Implementing and managing `mutexes` and `threads` | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2858985)     |
-| [Minishell](../../../42_minishell)          | Recreating a mini `Bash` terminal | ![](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/2914195)     |
-| [CPP-Module-00](../../../42_CPP-Module-00)  | On Going!                        | [![42_CPP00](https://badge42.vercel.app/api/v2/cl31j44h0007809mep6of7oak/project/3013874)](https://github.com/JaeSeoKim/badge42)     |
-| [CPP-Module-01](../../../42_CPP-Module-01)  | On Going!                        | ![]()     |
-
----
-
 | [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/Ry4nnnn?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nnnn&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Ry4nnnn?tab=repositories) |
 |:-:|:-:|
 
